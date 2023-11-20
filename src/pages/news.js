@@ -1,0 +1,18 @@
+const News = () => {
+    return (
+        <>
+            <h2>Новини</h2>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+            <h5>Lorem ipsum dolor sit amet. Et temporibus quos aut labore rerum aut repellat culpa qui dolores rerum rem molestiae explicabo vel Quis dolores! Qui debitis quasi qui doloribus consequatur sit eligendi sunt non velit sunt et commodi rerum? Eos voluptatem obcaecati ut architecto explicabo sed possimus sint non consequuntur illum ut facilis enim 33 nesciunt quis!</h5>
+       </>
+    );
+};
+
+export { News }
